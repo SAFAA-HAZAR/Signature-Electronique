@@ -9,7 +9,7 @@ import javacard.security.RSAPublicKey;
 import javacard.security.Signature;
 /**
  *
- * @Author MLLE HAZAR Safaa and ET-TOLBA Maryam
+ * @Author MLLE HAZAR Safaa  
  * @Filiére Génie informatique - sécurité informatique - S9
  */
 public class signature extends Applet {
